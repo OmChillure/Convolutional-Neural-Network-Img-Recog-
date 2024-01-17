@@ -6,10 +6,10 @@ This repository contains a Convolutional Neural Network (CNN) model for image re
 
 
 ### Model Details
-Architecture: Convolutional Neural Network (CNN), 
-Dataset: 4000 dogs and cats images
-Training Accuracy: 93.86%
-Epochs: 25
+Architecture: Convolutional Neural Network (CNN).
+Dataset: 4000 dogs and cats images.
+Training Accuracy: 93.86%.
+Epochs: 25.
 
 
 
